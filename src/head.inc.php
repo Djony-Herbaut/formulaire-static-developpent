@@ -1,3 +1,11 @@
+<?php
+    session_start();
+    $_SESSION['user']="Guiseppe";
+
+    
+?>
+
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>

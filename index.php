@@ -1,5 +1,5 @@
 <?php
-    include_once __DIR__."/head.inc.php";
+    include_once __DIR__."/src/head.inc.php";
 ?>
 <body>
     <!-- https://codepen.io/gius-mili/pen/ZEoJGrB -->
